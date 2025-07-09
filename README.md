@@ -42,7 +42,7 @@ Tools: GitHub, JDK 8+
 
 📁 GitHub Repository
 Repo Name: CODSOFT-JAVA-GIRIDHARAN-D
-📎 Link:
+📎 Link:https://github.com/GIRIDHARAN-D46/CODSOFT.git
 
 
 🚀 Completed My Java Development Internship at CodSoft!
